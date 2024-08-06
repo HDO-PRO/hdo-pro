@@ -20,9 +20,6 @@ Coolest User Interface
 Attractive design with easy navigation; find everything you need right on the home screen.
 Subtitles
 
-Supports over 25 languages, including English, Spanish, Romanian, Portuguese, Polish, Latin, French, Thai, Turkish, Arabic, and German.
-Regular Updates
-
 Frequent updates to keep the app bug-free and ensure the latest content is available.
 HD Content Options
 
