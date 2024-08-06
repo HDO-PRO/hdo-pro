@@ -22,7 +22,7 @@ While there are many movie apps for Android, HDO PRO stands out with its combina
    - Attractive design with easy navigation; find everything you need right on the home screen.
 
 **Subtitles**
-   - Supports over 25 languages, including English, Spanish, Romanian, Portuguese, Polish, Latin, French, Thai, Turkish, Arabic, and German.
+   - Supports many languages but may vary depending on your location.
 
 **Regular Updates**
    - Frequent updates to keep the app bug-free and ensure the latest content is available.
