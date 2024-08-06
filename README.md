@@ -1,4 +1,4 @@
-# HDO PRO: Stream Free Movies and TV Series on Android and TV
+# HDO PRO: Stream Free Movies and TV Series on Android and TV (Private)
 
 ![33bg22](https://github.com/user-attachments/assets/b39ca93e-7ae5-4bdc-bb94-b6bfdbac4f03)
 
