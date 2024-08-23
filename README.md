@@ -5,6 +5,13 @@ DO NOT TALK ABOUT US WE DO NOT EXIST..
 
 ![33bg22-modified](https://github.com/user-attachments/assets/acb42352-bed1-4f81-a037-414b8b372065)
 
+## Connect with Us
+
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://yourwebsite.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Join-blue)](https://t.me/yourtelegram)
+[![Discord](https://img.shields.io/badge/Discord-Join-purple)](https://discord.gg/yourdiscord)
+
+
 ## What Is HDO PRO?
 
 HDO PRO is a versatile and user-friendly app for streaming HD movies and TV shows on Android phones and Smart TVs. Its standout feature is an intuitive interface that offers easy navigation and a responsive design, showcasing trending content from various genres like Action, Comedy, and Sci-Fi on the home page.
