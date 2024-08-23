@@ -75,3 +75,11 @@ This application provides users with access to a wide range of media content, in
 Our app is designed to help users discover and access media content available on the internet. We comply with all copyright laws and respect the rights of content creators and copyright holders.
 
 This app is for personal use only. We do not promote illegal activity. Users are responsible for complying with all applicable laws and regulations in their jurisdiction.
+
+Guidelines
+Respect: Treat everyone with kindness. Disrespectful behavior won't be tolerated.
+Issues: Found a bug? Please check existing issues before creating a new one.
+Pull Requests: Ensure your code follows our standards and is tested before submitting.
+License: By contributing, you agree that your code will be licensed under the project's MIT License.
+
+Note: Discord and Telegram are temporarily unavailable.
