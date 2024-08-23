@@ -5,7 +5,7 @@ DO NOT TALK ABOUT US WE DO NOT EXIST..
 
 ![33bg22-modified](https://github.com/user-attachments/assets/acb42352-bed1-4f81-a037-414b8b372065)
 
-## Connect with Us
+## Join/Contact
 
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://yourwebsite.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue)](https://t.me/yourtelegram)
