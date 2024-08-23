@@ -76,7 +76,7 @@ Our app is designed to help users discover and access media content available on
 
 This app is for personal use only. We do not promote illegal activity. Users are responsible for complying with all applicable laws and regulations in their jurisdiction.
 
-Guidelines
+Guidelines:
 Respect: Treat everyone with kindness. Disrespectful behavior won't be tolerated.
 Issues: Found a bug? Please check existing issues before creating a new one.
 Pull Requests: Ensure your code follows our standards and is tested before submitting.
