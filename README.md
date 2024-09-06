@@ -10,7 +10,7 @@ DO NOT TALK ABOUT US WE DO NOT EXIST..
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://hdopro.netlify.app/)
 [![Telegram](https://img.shields.io/badge/Telegram-Temporarily_Unavailable-lightgrey)](#)
 [![Discord](https://img.shields.io/badge/Discord-Temporarily_Unavailable-lightgrey)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](hdopro@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:hdopro@protonmail.com)
 
 ## What Is HDO PRO?
 
