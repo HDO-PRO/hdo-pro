@@ -1,29 +1,35 @@
 # HDO PRO: Stream Free Movies and TV Series on Android and TV (Private)
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <img src="https://github.com/user-attachments/assets/f23fcaf8-3da2-4546-9029-ebf0eeee2268" alt="GitHub Image" width="500">
+    <br>
+    <strong>DO NOT TALK ABOUT US. WE DO NOT EXIST.</strong>
+    <p><i>(NO CODE/TOOLS ON HOW THIS APP WAS MADE WILL BE SHARED)</i></p>
 </div>
 
-**DO NOT TALK ABOUT US. WE DO NOT EXIST.**
-
-(NO CODE/TOOLS ON HOW THIS APP WAS MADE WILL BE SHARED)
-
-> **ALERT (Please Read)⚠️**  
-> Please be aware that HDO PRO is a private streaming app, and no details on its development will be shared. We provide streaming access but stay underground.
-
 ## Join/Contact
-----
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://hdopro.netlify.app/)  
-[![Telegram](https://img.shields.io/badge/Telegram-Temporarily_Unavailable-lightgrey)](#)  
-[![Discord](https://img.shields.io/badge/Discord-Temporarily_Unavailable-lightgrey)](#)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:hdopro@protonmail.com)
+
+<div align="center">
+    <a href="https://hdopro.netlify.app/">
+        <img src="https://img.shields.io/badge/Website-Visit-brightgreen" alt="Website">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Telegram-Temporarily_Unavailable-lightgrey" alt="Telegram">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Discord-Temporarily_Unavailable-lightgrey" alt="Discord">
+    </a>
+    <a href="mailto:hdopro@protonmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact-red" alt="Email">
+    </a>
+</div>
 
 ## What Is HDO PRO?
-----
+
 HDO PRO is a versatile and user-friendly app for streaming HD movies and TV shows on Android phones and Smart TVs. Its intuitive interface offers easy navigation and a responsive design, showcasing trending content from various genres like Action, Comedy, and Sci-Fi on the home page.
 
 ## Why Choose HDO PRO?
-----
+
 While many movie apps for Android exist, HDO PRO stands out with its HD content, subtitles support, fast loading times, responsive design, and great technical support.
 
 ### Key Features:
@@ -35,15 +41,15 @@ While many movie apps for Android exist, HDO PRO stands out with its HD content,
 - **HD Content:** Extensive catalog of HD movies and TV shows.
 - **Ad-Free Experience:** Stream without interruptions from ads.
 
-## User Experience:
-----
+## User Experience
+
 - **Interface and Navigation:** Sleek and intuitive design for easy browsing.
 - **Safety and Permissions:** No dangerous permissions required.
 - **Streaming Quality:** Offers multiple resolutions, with smooth, buffer-free playback.
 - **Compatibility and Performance:** Works seamlessly on Android devices and Smart TVs.
 
-## DMCA Disclaimer:
-----
+## DMCA Disclaimer
+
 We do not host any media files. All content available through this app is sourced from third-party providers. HDO PRO is for personal use only, and users are responsible for complying with laws in their jurisdiction.
 
 **Note:** Discord and Telegram are temporarily unavailable.
