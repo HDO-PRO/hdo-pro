@@ -50,6 +50,8 @@ While many movie apps for Android exist, HDO PRO stands out with its HD content,
 - **Streaming Quality:** Offers multiple resolutions, with smooth, buffer-free playback.
 - **Compatibility and Performance:** Works seamlessly on Android devices and Smart TVs.
 
+----
+
     <strong>Note that: NO DOWNLOADS AVAILABLE ON THIS PAGE AT THIS TIME.</strong>
 
 ## DMCA Disclaimer
