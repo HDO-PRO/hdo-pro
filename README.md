@@ -3,11 +3,13 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/f23fcaf8-3da2-4546-9029-ebf0eeee2268" alt="GitHub Image" width="500">
     <br>
+    </div>
     <strong>NO DOWNLOADS AVAILABLE ON THIS PAGE</strong>
-    
+    </div>
     <strong>DO NOT TALK ABOUT US. WE DO NOT EXIST.</strong>
-    
+    </div>
     <p><i>(NO CODE/TOOLS ON HOW THIS APP WAS MADE WILL BE SHARED)</i></p>
+    
 </div>
 
 ## Join/Contact
