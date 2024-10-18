@@ -9,7 +9,7 @@
     
 </div>
 
-## Join/Contact
+## Join/Contact To Get Access
 
 <div align="center">
     <a href="https://hdopro.netlify.app/">
