@@ -79,7 +79,7 @@ If you appreciate our work and would like to support the development of HDO PRO,
 
 ## **Our VISITORS**
 
-<img src="https://count.getloli.com/get/@:marshmeadownekomo" alt=":rebeloniondantotsu" />
+<img src="https://count.getloli.com/get/@:hdopro" alt="HDO PRO Visitors" />
 
 ---
 
