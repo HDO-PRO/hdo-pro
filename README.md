@@ -62,7 +62,7 @@ HDO PRO sets itself apart from other streaming apps with its high-quality HD con
 
 ---
 
-## **Downloads**
+## **Downloads** *(Note: Downloads are not available at this time.)*
 
 - [Stable Version](#) 
 - [Beta Version](#) 
