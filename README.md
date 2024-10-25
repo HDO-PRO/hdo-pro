@@ -1,5 +1,5 @@
 <div align="center">
-# HDO PRO: Stream Free Movies and TV Series on Android and TV (Private)
+<strong>HDO PRO: Stream Free Movies and TV Series on Android and TV (Private)<strong>
 </div>
 
 <div align="center">
