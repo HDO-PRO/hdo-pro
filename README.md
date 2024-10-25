@@ -1,6 +1,4 @@
-<div align="center">
-<strong>HDO PRO: Stream Free Movies and TV Series on Android and TV (Private)<strong>
-</div>
+HDO PRO: Stream Free Movies and TV Series on Android and TV (Private)
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/f23fcaf8-3da2-4546-9029-ebf0eeee2268" alt="GitHub Image" width="500">
