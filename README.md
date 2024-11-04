@@ -3,6 +3,10 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/f23fcaf8-3da2-4546-9029-ebf0eeee2268" alt="GitHub Image" width="500">
     <br><br>
+    <p>
+        **Official HDO Box Information**  
+        HDO PRO is a reskinned, enhanced version of the official [HDO Box](https://hdo.app/), optimized with no ads or trackers for a seamless streaming experience. To learn more about the official HDO Box, visit their [official website](https://hdo.app/) or [Discord community](https://discord.com/invite/VPRJVExUVD).
+    </p>
     <strong>Note: No downloads are available on this page at this time.</strong>  
     <strong>Do not talk about us. We do not exist.</strong>  
     <strong>No code or tools used to create this app will be shared.</strong>
