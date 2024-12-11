@@ -74,7 +74,9 @@ HDO PRO sets itself apart from other streaming apps with its high-quality HD con
 - 📥 [Stable Version](#) - [Official](https://hdo.app/)  
 - 🚧 [Beta Version](#) - [Official](https://hdo.app/)  
 - 📺 [On Player MOD](#) - [Official](https://play.google.com/store/apps/details?id=com.mediaon.apt)  
-- 🎭 [Drama Player MOD](#) - [Official](https://drama-player.en.uptodown.com/android/download)
+- 🎭 [Drama Player MOD](#) - [Official](https://drama-player.en.uptodown.com/android/download)  
+
+> **🔒 Note:** You must join to gain full access to the downloads and features.  
 
 ---
 
