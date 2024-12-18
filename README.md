@@ -1,4 +1,4 @@
-<h1 align="center">🎬✨ HDO PRO: Stream Free Movies and TV Series on Android and TV (Private) 🍿📺</h1>
+<h1 align="center">🎬✨ HDO PRO: Stream Free Movies and TV Series on Android and TV (Private) 🍿📺🍥</h1>
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/f23fcaf8-3da2-4546-9029-ebf0eeee2268" alt="GitHub Image" width="500">
@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">📩 Join/Contact To Get Access 🌐</h2>
+<h2 align="center">📩 Join/Contact To Get Access 🌐🍥</h2>
 
 <div align="center">
     <a href="https://hdopro.netlify.app/">
@@ -72,18 +72,6 @@ HDO PRO sets itself apart from other streaming apps with its high-quality HD con
 - "Different groups, communities, and channels with resources and sharing opportunities are the best part, in my opinion. The new premium stories, profile GIFs, and premium emojis are also great features."  
 - "I like how it's easy to find movies and series."  
 - "Pirating."  
-
----
-
-**User Suggestions for Updates:**  
-- "A list of required updates includes:  
-   - Integrated player  
-   - Private sign-up system  
-   These are the only things needed for now; otherwise, this app is perfect!"  
-- "Light mode 👀🫣"  
-- "I would like to see more regional content."  
-- "More genre-specific recommendations, personalized content based on watch history, a feature to create custom playlists, offline download options, improved UI for easier navigation, faster loading times, and regular updates with the latest releases."  
-- "Channels and groups with integrated topic discussions."
 
 ---
 
