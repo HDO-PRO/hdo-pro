@@ -5,8 +5,8 @@
     <br><br>
 <p>
     <strong>🌟 Official HDO Box Information 🌟</strong><br>
-    HDO PRO is a reskinned, enhanced version of the official HDO Box (<a href="https://hdo.app" target="_blank">hdo.app</a>), optimized with no ads or trackers for a seamless streaming experience.<br>
-    ➡️ To learn more about the official HDO Box, visit their <a href="https://hdo.app" target="_blank">Website</a> 🌐 or join the Discord Community: <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">🎧 https://discord.com/invite/VPRJVExUVD</a>.
+    HDO PRO is a reskinned, enhanced version of the official HDO Box (<a href="https://hdo.app" target="_blank">HDO Box website</a>), optimized with no ads or trackers for a seamless streaming experience.<br>
+    ➡️ To learn more about the official HDO Box, visit their <a href="https://hdo.app" target="_blank">website</a> or join their <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">Discord community</a>.
 </p>
     <strong>❗️ Note: No downloads are available on this page at this time. ❗️</strong>  
     <strong>🚫 Do not talk about us. We do not exist. 🚫</strong>  
@@ -75,10 +75,10 @@ HDO PRO is a fully enhanced and private experience for users who value seamless 
 
 ## **📂 Downloads** *(Note: Downloads are not available at this time.)*
 
-- 📥 [Stable Version](#) - [Official](https://hdo.app/)  
-- 🚧 [Beta Version](#) - [Official](https://hdo.app/)  
-- 📺 [On Player MOD](#) - [Official](https://play.google.com/store/apps/details?id=com.mediaon.apt)  
-- 🎭 [Drama Player MOD](#) - [Official](https://drama-player.en.uptodown.com/android/download)  
+- 📥 [Stable Version](#) - Visit the <a href="https://hdo.app" target="_blank">official site</a>.  
+- 🚧 [Beta Version](#) - Available on the <a href="https://hdo.app" target="_blank">official site</a>.  
+- 📺 [On Player MOD](#) - Find it on <a href="https://play.google.com/store/apps/details?id=com.mediaon.apt" target="_blank">Google Play</a>.  
+- 🎭 [Drama Player MOD](#) - Download from <a href="https://drama-player.en.uptodown.com/android/download" target="_blank">Uptodown</a>.  
 
 > **🔒 Note:** You must join to gain full access to the downloads and features.  
 
