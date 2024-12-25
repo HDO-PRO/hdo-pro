@@ -105,6 +105,6 @@ If you appreciate our work and would like to support the development of HDO PRO,
 
 ## **📜 DMCA Disclaimer**
 
-HDO PRO does not host or provide media files. Content accessible through the app is sourced from third-party providers, and the app is intended for personal, non-commercial use only. Users are responsible for ensuring they comply with laws in their respective regions.
+HDO PRO does not host or provide media files. Content accessible through the app is sourced from third-party providers, and the app is intended for personal, non-commercial use only. We do not endorse or promote illegal activity. Users are responsible for complying with all applicable laws and regulations in their jurisdiction.
 
-**Please Note:** 🛑 Discord and Telegram channels are temporarily unavailable.
+**Note:** While the official HDO Box does not support or condone what we do, it’s worth mentioning that HDO Box itself operates as a piracy app, thus already breaking some rules.
