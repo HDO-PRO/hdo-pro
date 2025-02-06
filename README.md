@@ -8,7 +8,7 @@
     HDO PRO is a reskinned, enhanced version of the official HDO Box (<a href="https://hdo.app" target="_blank">HDO Box website</a>), optimized with no ads or trackers for a seamless streaming experience.<br>
     ➡️ To learn more about the official HDO Box, visit their <a href="https://hdo.app" target="_blank">website</a> or join their <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">Discord community</a>.
 </p>
-    <strong>❗️ Note: No downloads are available on this page at this time. ❗️</strong>  
+    <strong>❗️ Note: Downloads are currently unavailable. ❗️</strong>  
     <strong>🚫 Do not talk about us. We do not exist. 🚫</strong>  
     <strong>🔒 No code or tools used to create this app will be shared. 🔒</strong>
 </div>
@@ -69,7 +69,7 @@ HDO PRO is a fully enhanced and private experience for users who value seamless 
 ---
 
 > **⚠️ ALERT: TEMPORARY UNAVAILABILITY ⚠️**  
-> ❌ Note: No downloads are currently available here, and some features are on hold.
+> ❌ Downloads are currently unavailable. Some features are on hold. You must join to gain full access when available.  
 
 ---
 
@@ -80,7 +80,8 @@ HDO PRO is a fully enhanced and private experience for users who value seamless 
 - 📺 [On Player MOD](#) - Find it on <a href="https://play.google.com/store/apps/details?id=com.mediaon.apt" target="_blank">Google Play</a>.  
 - 🎭 [Drama Player MOD](#) - Download from <a href="https://drama-player.en.uptodown.com/android/download" target="_blank">Uptodown</a>.  
 
-> **🔒 Note:** You must join to gain full access to the downloads and features.  
+> **⚠️ ALERT: TEMPORARY UNAVAILABILITY ⚠️**  
+> ❌ Downloads are currently unavailable. Some features are on hold. You must join to gain full access when available.  
 
 ---
 
