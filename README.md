@@ -73,7 +73,7 @@ HDO PRO is a fully enhanced and private experience for users who value seamless 
 
 ---
 
-## **📂 Downloads** *(Note: Downloads are not available at this time.)*
+## **📂 Downloads**
 
 - 📥 [Stable Version](#) - Visit the <a href="https://hdo.app" target="_blank">official site</a>.  
 - 🚧 [Beta Version](#) - Available on the <a href="https://hdo.app" target="_blank">official site</a>.  
