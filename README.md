@@ -1,11 +1,15 @@
-<h1 align="center">🎬✨ HDO PRO: Stream Free Movies and TV Series on Android and TV (Private) 🍿📺🍥</h1>
+<h1 align="center">🎬✨ HDO PRO: Media Player for Movies and TV Series on Android and TV (Private) 🍿📺🍥</h1>
+
+<div align="center">
+    <strong>⚠️ Notice: HDO PRO may only work with Android 14 and older. ⚠️</strong>
+</div>
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/f23fcaf8-3da2-4546-9029-ebf0eeee2268" alt="GitHub Image" width="500">
     <br><br>
 <p>
     <strong>🌟 Official HDO Box Information 🌟</strong><br>
-    HDO PRO is a reskinned, enhanced version of the official HDO Box (<a href="https://hdo.app" target="_blank">HDO Box website</a>), optimized with no ads or trackers for a seamless streaming experience.<br>
+    HDO PRO is a reskinned, enhanced version of the official HDO Box (<a href="https://hdo.app" target="_blank">HDO Box website</a>), optimized with no ads or trackers for a seamless media playback experience.<br>
     ➡️ To learn more about the official HDO Box, visit their <a href="https://hdo.app" target="_blank">website</a> or join their <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">Discord community</a>.
 </p>
     <strong>❗️ Note: Downloads are currently unavailable. ❗️</strong>  
@@ -36,13 +40,13 @@
 
 ## **❓ What Is HDO PRO?**
 
-HDO PRO is a feature-rich, private streaming application tailored for Android devices and Smart TVs, offering access to 🎥 HD movies and TV series. Built for seamless navigation and intuitive design, HDO PRO brings you trending movies and shows across genres like 🎭 Action, 😂 Comedy, and 🚀 Sci-Fi.
+HDO PRO is a feature-rich, private media player application tailored for Android devices and Smart TVs, offering access to 🎥 HD movies and TV series. Built for seamless navigation and intuitive design, HDO PRO brings you trending movies and shows across genres like 🎭 Action, 😂 Comedy, and 🚀 Sci-Fi.
 
 ---
 
 ## **🌟 HDO Box vs. HDO PRO**
 
-While both apps offer access to movies and TV shows, **HDO Box** and **HDO PRO** differ in significant ways. Here's a quick comparison:
+While both apps offer media playback features, **HDO Box** and **HDO PRO** differ in significant ways. Here's a quick comparison:
 
 | Feature                | **HDO Box**                      | **HDO PRO**                       |
 |------------------------|-----------------------------------|------------------------------------|
@@ -53,7 +57,7 @@ While both apps offer access to movies and TV shows, **HDO Box** and **HDO PRO**
 | **Availability**       | Publicly available on the website| Private access only               |
 | **Source Code**        | Proprietary                      | Not shared or available           |
 
-HDO PRO is a fully enhanced and private experience for users who value seamless streaming, improved navigation, and privacy.  
+HDO PRO is a fully enhanced and private experience for users who value seamless playback, improved navigation, and privacy.  
 
 ---
 
