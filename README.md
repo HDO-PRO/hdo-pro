@@ -1,7 +1,7 @@
 <h1 align="center">🎬✨ HDO PRO: Media Player for Movies and TV Series on Android and TV (Private) 🍿📺🍥</h1>
 
 <div align="center">
-    <strong>⚠️ Notice: HDO PRO may only work with Android 14 and older. ⚠️</strong>
+    <strong>⚠️ Notice: HDO PRO may only work with Android 14 and older versions. ⚠️</strong>
 </div>
 
 <div align="center">
