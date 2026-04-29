@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/badge/🌀 Discord-Temporarily_Unavailable-lightgrey" alt="Discord">
     </a>
     <a href="mailto:hdopro@protonmail.com">
-        <img src="https://img.shields.io/badge/📧 Email-Contact-red" alt="Email">
+        <img src="https://img.shields.io/badge/📧 Email-Contact-red" alt="Email (OFFLINE)">
     </a>
 </div>
 
