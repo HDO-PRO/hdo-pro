@@ -61,6 +61,21 @@ HDO PRO is a fully enhanced and private experience for users who value seamless 
 
 ---
 
+<h2 align="center">👀 Final Note...</h2>
+
+<div align="center">
+    <strong>😏 Looks like they’re finding out… wahahaha.</strong><br>
+    <em>Too late to turn back now.</em>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="YOUR_IMAGE_1_URL_HERE" width="260">
+    <img src="YOUR_IMAGE_2_URL_HERE" width="260">
+</div>
+---
+
 ## **💬 User Reviews**
 
 **What users love about HDO PRO:**  
