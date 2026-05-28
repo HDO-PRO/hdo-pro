@@ -82,7 +82,7 @@ HDO PRO is a fully enhanced and private experience for users who value seamless 
 - 📥 [Stable Version](#) - Visit the <a href="https://hdo.app" target="_blank">official site</a>.  
 - 🚧 [Beta Version](#) - Available on the <a href="https://hdo.app" target="_blank">official site</a>.  
 - 📺 [On Player MOD](#) - Find it on <a href="https://play.google.com/store/apps/details?id=com.mediaon.apt" target="_blank">Google Play</a>.  
-- 🎭 [Drama Player MOD](#) - Download from <a href="https://drama-player.en.uptodown.com/android/download" target="_blank">Uptodown</a>.
+- 🎭 [Drama Player MOD](#) - Download from <a href="https://drama-player.en.uptodown.com/android/download" target="_blank">Uptodown</a> or <a href="https://apkpure.com/drama-player/com.drama.simpleplayer/download" target="_blank">APK Pure</a>.
 
   Note that: Links may not be up to date for privacy reasons..
 
