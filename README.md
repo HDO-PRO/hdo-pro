@@ -71,8 +71,8 @@ HDO PRO is a fully enhanced and private experience for users who value seamless 
 <br>
 
 <div align="center">
-    <img width="401" height="889" alt="Screenshot 2026-05-28 162242" src="https://github.com/user-attachments/assets/a779768f-1cd9-4b80-8f7e-e8f371f4ac2c" />
-    <img width="425" height="159" alt="Screenshot 2026-05-28 162408" src="https://github.com/user-attachments/assets/fa04c43e-5617-4624-b941-fc07b4e653db" />
+    <img width="260" alt="Screenshot 2026-05-28 162242" src="https://github.com/user-attachments/assets/a779768f-1cd9-4b80-8f7e-e8f371f4ac2c" />
+    <img width="425" alt="Screenshot 2026-05-28 162408" src="https://github.com/user-attachments/assets/fa04c43e-5617-4624-b941-fc07b4e653db" />
 </div>
 ---
 
