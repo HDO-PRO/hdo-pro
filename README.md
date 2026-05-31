@@ -32,6 +32,21 @@
     <a href="mailto:hdopro@protonmail.com">
         <img src="https://img.shields.io/badge/📧 Email (OFFLINE)-Contact-red" alt="Email">
     </a>
+    <a href="https://hdopro.netlify.app/support.html">
+        <img src="https://img.shields.io/badge/🛠️ Support-Not%20Supported-lightgrey" alt="Support">
+    </a>
+    <a href="https://hdopro.netlify.app/privacy.html">
+        <img src="https://img.shields.io/badge/🔒 Privacy-View-lightblue" alt="Privacy">
+    </a>
+    <a href="https://hdopro.netlify.app/rules.html">
+        <img src="https://img.shields.io/badge/📜 Rules-View-orange" alt="Rules">
+    </a>
+    <a href="https://hdopro.netlify.app/dmca.html">
+        <img src="https://img.shields.io/badge/⚖️ DMCA-View-yellow" alt="DMCA">
+    </a>
+    <a href="https://github.com/MarshMeadow/hdo-box.app-ad-free">
+        <img src="https://img.shields.io/badge/🗄️ Legacy%20Repository-Visit-lightgrey" alt="Legacy Repository">
+    </a>
 </div>
 
 ---
