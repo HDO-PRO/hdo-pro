@@ -100,7 +100,6 @@ HDO PRO is a fully enhanced and private experience for users who value seamless 
 **What users love about HDO PRO:**  
 - "My favorite thing about this app is that it's ad-free, has every movie and series, and the UI is perfect. It truly makes it the best app!"  
 - "All the amazing content!"  
-- "Different groups, communities, and channels with resources and sharing opportunities are the best part, in my opinion. The new premium stories, profile GIFs, and premium emojis are also great features."  
 - "I like how it's easy to find movies and series."  
 - "Pirating."  
 
