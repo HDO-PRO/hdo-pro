@@ -1,21 +1,13 @@
 <h1 align="center">🎬✨ HDO PRO: Media Player for Movies and TV Series on Android and TV (Private) 🍿📺🍥</h1>
 
 <div align="center">
-    <strong>⚠️ Notice: HDO PRO may only work with Android 14 and older versions. ⚠️</strong>
+    <strong>⚠️ Notice: HDO PRO may only work with some version of android. ⚠️</strong>
 </div>
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/f23fcaf8-3da2-4546-9029-ebf0eeee2268" alt="GitHub Image" width="500">
     <br><br>
 <p>
-    <strong>🌟 Official HDO Box Information 🌟</strong><br>
-    HDO PRO is a reskinned, enhanced version of the official HDO Box (<a href="https://hdo.app" target="_blank">HDO Box website</a>), optimized with no ads or trackers for a seamless media playback experience.<br>
-    ➡️ To learn more about the official HDO Box, visit their <a href="https://hdo.app" target="_blank">website</a> or join their <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">Discord community</a>.
-</p>
-    <strong>❗️ Note: Downloads are currently unavailable. ❗️</strong>  
-    <strong>🚫 Do not talk about us. We do not exist. 🚫</strong>  
-    <strong>🔒 No code or tools used to create this app will be shared. 🔒</strong>
-</div>
 
 ---
 
@@ -37,6 +29,15 @@
 </div>
 
 ---
+</p>
+    <strong>🌟 Official HDO Box Information 🌟</strong><br>
+    HDO PRO is a reskinned, enhanced version of the official HDO Box (<a href="https://hdo.app" target="_blank">HDO Box website</a>), optimized with no ads or trackers for a seamless media playback experience.<br>
+    ➡️ To learn more about the official HDO Box, visit their <a href="https://hdo.app" target="_blank">website</a> or join their <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">Discord community</a>.
+</p>
+    <strong>❗️ Note: Downloads are currently unavailable. ❗️</strong>  
+    <strong>🚫 Do not talk about us. We do not exist. 🚫</strong>  
+    <strong>🔒 No code or tools used to create this app will be shared. 🔒</strong>
+</div>
 
 ## **❓ What Is HDO PRO?**
 
