@@ -49,8 +49,8 @@
     <strong>🔒 No code or tools used to create this app will be shared. 🔒</strong>
 </p>
  <strong>🌟 Official HDO Box Information 🌟</strong><br>
-    HDO PRO is a reskinned, enhanced version of the official OG HDO Box (<a href="https://hdo.app" target="_blank">HDO Box website</a>), optimized with no ads or trackers for a seamless media playback experience.<br>
-    ➡️ To learn more about the official OG HDO Box, visit their <a href="https://hdo.app" target="_blank">website</a> or join their <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">Discord community</a>.
+    HDO PRO is a reskinned, enhanced version of the <a href="https://hdo.app" target="_blank">official OG HDO Box</a>, optimized with no ads or trackers for a seamless media playback experience.<br>
+    ➡️ To learn more about the official OG HDO Box, visit their <a href="https://hdo.app" target="_blank">Offical Website</a> or join their <a href="https://discord.com/invite/VPRJVExUVD" target="_blank">Discord Community</a>.
 </p>
 </div>
 
