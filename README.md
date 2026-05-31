@@ -44,7 +44,7 @@
     </a>
 
 </p>
-    <strong>❗️ Note: Downloads are currently unavailable. ❗️</strong>  
+    <strong>❗️ Note: Downloads are currently unavailable. Join to get Access. ❗️</strong>  
     <strong>🚫 Do not talk about us. We do not exist. 🚫</strong>  
     <strong>🔒 No code or tools used to create this app will be shared. 🔒</strong>
 </p>
