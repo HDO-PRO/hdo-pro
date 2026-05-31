@@ -17,6 +17,12 @@
     <a href="https://hdopro.netlify.app/">
         <img src="https://img.shields.io/badge/🌟 Website-Visit-brightgreen" alt="Website">
     </a>
+    <a href="https://github.com/HDO-PRO/Resources-Alternatives">
+        <img src="https://img.shields.io/badge/📚 Resources%20%26%20Alternatives-View-blue" alt="Resources & Alternatives">
+    </a>
+    <a href="https://github.com/HDO-PRO/HDO-Pro-Web-Index">
+        <img src="https://img.shields.io/badge/🧭 Web%20Index-Visit-blueviolet" alt="Web Index">
+    </a>
     <a href="#">
         <img src="https://img.shields.io/badge/💬 Telegram-Temporarily_Unavailable-lightgrey" alt="Telegram">
     </a>
