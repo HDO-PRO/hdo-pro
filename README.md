@@ -44,7 +44,6 @@
     <a href="https://hdopro.netlify.app/dmca.html">
         <img src="https://img.shields.io/badge/⚖️ DMCA-View-yellow" alt="DMCA">
     </a>
-</div>
 
 </p>
     <strong>❗️ Note: Downloads are currently unavailable. ❗️</strong>  
