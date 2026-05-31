@@ -29,9 +29,6 @@
     <a href="https://github.com/HDO-PRO/Resources-Alternatives">
         <img src="https://img.shields.io/badge/📚 Resources%20%26%20Alternatives-View-blue" alt="Resources & Alternatives">
     </a>
-    <a href="https://hdopro.netlify.app/support.html">
-        <img src="https://img.shields.io/badge/🛠️ Support-Not%20Supported-lightgrey" alt="Support">
-    </a>
     <a href="https://hdopro.netlify.app/privacy.html">
         <img src="https://img.shields.io/badge/🔒 Privacy-View-lightblue" alt="Privacy">
     </a>
