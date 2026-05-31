@@ -9,8 +9,6 @@
     <br><br>
 <p>
 
----
-
 <h2 align="center">📩 Our Socials! (Join To Get Access) 🌐🍥</h2>
 
 <div align="center">
